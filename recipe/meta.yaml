@@ -38,7 +38,7 @@ requirements:
     - gettext                      # [unix]
     - libtool                      # [unix]
   host:
-    - libuuid  # [linux]
+    - libuuid                      # [linux]
     - xorg-util-macros
     - xorg-xorgproto
     - xorg-xtrans
