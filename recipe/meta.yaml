@@ -43,7 +43,7 @@ requirements:
     - xorg-util-macros
     - xorg-xorgproto
     - xorg-xtrans
-    - xorg-libice
+    - xorg-libice >=1.1.0
 
 test:
   commands:
