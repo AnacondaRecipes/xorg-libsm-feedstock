@@ -57,8 +57,8 @@ test:
 
 about:
   home: https://www.x.org/
-  dev_url: https://gitlab.freedesktop.org/xorg/lib/libice
-  doc_url: https://gitlab.freedesktop.org/xorg/lib/libice
+  dev_url: https://gitlab.freedesktop.org/xorg/lib/libsm
+  doc_url: https://gitlab.freedesktop.org/xorg/lib/libsm
   license: MIT
   license_family: MIT
   license_file: COPYING
